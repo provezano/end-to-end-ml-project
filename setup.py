@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "end-to-end-ml-project"
 AUTHOR_USER_NAME = "coutinho"
-SRC_REPO = "ml-project"
+SRC_REPO = "ml_project"
 AUTHOR_EMAIL = "provezano@gmail.com"
 
 
@@ -19,7 +19,7 @@ setuptools.setup(
     author_email=AUTHOR_EMAIL,
     description="A small python package for ml app",
     long_description=long_description,
-    long_description_content="text/markdown",
+    long_description_content_type="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
     project_urls={
         "Bug Tracker": f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
