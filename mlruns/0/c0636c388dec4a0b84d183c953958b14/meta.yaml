@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prove/end-to-end-ml-project/mlruns/0/c0636c388dec4a0b84d183c953958b14/artifacts
+end_time: 1705763575427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0636c388dec4a0b84d183c953958b14
+run_name: classy-horse-989
+run_uuid: c0636c388dec4a0b84d183c953958b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705763569866
+status: 3
+tags: []
+user_id: prove

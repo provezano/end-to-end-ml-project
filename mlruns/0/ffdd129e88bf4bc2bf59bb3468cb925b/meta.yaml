@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prove/end-to-end-ml-project/mlruns/0/ffdd129e88bf4bc2bf59bb3468cb925b/artifacts
+end_time: 1705763652102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffdd129e88bf4bc2bf59bb3468cb925b
+run_name: unique-yak-299
+run_uuid: ffdd129e88bf4bc2bf59bb3468cb925b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705763645561
+status: 3
+tags: []
+user_id: prove
